@@ -1,0 +1,10 @@
+header {
+  background-color: tomato;
+  color: white;
+  width: 100%;
+  hight: 100px;
+}
+
+.title a {
+  float: right;
+}
